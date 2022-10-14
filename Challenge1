@@ -1,1 +1,3 @@
-Question 1: From Customers Table Fetch the following customer details :  FirstName, LastName, Email and make sure the result should be in alphabetical order with respective to LastName.
+Question 1: From Customers Table Fetch the following customer details : 
+FirstName, LastName, Email and 
+make sure the result should be in alphabetical order with respective to LastName.
